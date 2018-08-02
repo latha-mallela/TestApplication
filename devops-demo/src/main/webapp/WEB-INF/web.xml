@@ -6,5 +6,7 @@
     version="2.4">
 
     <display-name>simple maven war plugin example</display-name>
-
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+	</welcome-file-list>
 </web-app>
